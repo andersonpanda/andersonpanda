@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @andersonpanda
+- 🌱 I’m currently learning javascript
